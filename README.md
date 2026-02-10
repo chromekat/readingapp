@@ -19,7 +19,8 @@ Backend:
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
-- Maven <br>
+- Maven <br> <br>
+
 Frontend: 
 - Angular
 - TypeScript
