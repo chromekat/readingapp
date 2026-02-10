@@ -40,4 +40,4 @@ Frontend:
 - Frontend communicates with backend via HTTP APIs
 - Backend handles business logic and persistence
 
-<strong>Hosted Link:</strong> <a href= "http://readly-book-app.s3-website.us-east-2.amazonaws.com/login" target="_blank">View Project</a>
+<strong>Hosted Link:</strong> <a href= "http://readly-book-app.s3-website.us-east-2.amazonaws.com/login" target="_blank" rel="noopener noreferrer">View Project</a>
