@@ -13,14 +13,14 @@ A full-stack web application to help users track their reading habits, manage bo
 - Responsive UI built with Angular
 - RESTful backend with Spring Boot and PostgreSQL
 
-<strong>Tech Stack</strong>
+<strong>Tech Stack</strong> <br>
 Backend:
 - Java
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
-- Maven
-Frontend:
+- Maven <br>
+Frontend: 
 - Angular
 - TypeScript
 - HTML / CSS
